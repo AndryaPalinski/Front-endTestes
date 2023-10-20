@@ -1,0 +1,109 @@
+body {
+    background: rgb(230, 136, 40);
+    background: linear-gradient(90deg, rgba(230, 136, 40, 1) 16%, rgba(215, 195, 49, 1) 58%,
+    rgb(255, 255, 83) 100%);
+}
+
+#titulo {
+    font-family: "Autour One", sans-serif;
+    margin-left: 20rem;
+    padding: 5rem;
+    background: rgba(255, 248, 51, 0.603);
+    width: 28rem;
+    text-align: center;
+    border-radius: 20rem;
+}
+
+#titulo1 {
+    font-family: "Autour One", sans-serif;
+    margin-left: 2rem;
+    padding: 1rem;
+    background: rgba(255, 248, 51, 0.603);
+    width: 13rem;
+    border-radius: 1rem;
+}
+
+#titulo2 {
+    font-family: "Autour One", sans-serif;
+    margin-left: 2rem;
+    padding: 1rem;
+    background: rgba(255, 248, 51, 0.603);
+    width: 17rem;
+    border-radius: 1rem;
+}
+
+#titulo3 {
+    font-family: "Autour One", sans-serif;
+    margin-left: 2rem;
+    padding: 1rem;
+    background: rgba(255, 248, 51, 0.603);
+    width: 30rem;
+    border-radius: 1rem;
+}
+
+#titulo4 {
+    font-family: "Autour One", sans-serif;
+    margin-left: 2rem;
+    padding: 1rem;
+    background: rgba(255, 248, 51, 0.603);
+    width: 11rem;
+    border-radius: 1rem;
+}
+
+#head {
+
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    color: b;
+    margin: 3rem;
+    text-align: center;
+}
+
+img {
+
+    border-style: ridge;
+    margin-left: 17rem;
+    border-radius: 1rem;
+    width: 11rem;
+}
+
+#text1 {
+
+    /* background-color: aqua; */
+    background: rgba(255, 248, 51, 0.603);
+    margin-left: 5rem;
+    width: 55rem;
+    border-radius: 1rem;
+    padding: 1rem;
+
+}
+
+/* #table1 { */
+
+    /* background-color: rgb(35, 179, 129); */
+    /* margin-left: 5rem; */
+    /* width: 60rem; */
+/* } */
+
+tr,
+td,
+th {
+    background: rgba(255, 248, 51, 0.438);
+    border-bottom: 1px solid rgb(255, 213, 0);
+    margin: 2rem;
+    width: 20%;
+    text-align: center;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+
+#text3 {
+
+    background: rgba(255, 248, 51, 0.603);
+    margin-left: 2rem;
+    width: 20rem;
+    border-radius: 1rem;
+    padding: 1rem;
+
+}
